@@ -127,6 +127,11 @@
 
 }
 
+#print a{
+    text-decoration: none;
+    color: white;
+}
+
 #print span {
     background: #009688;
     height: 100%;
